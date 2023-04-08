@@ -41,4 +41,4 @@ Within Developer DAO, we're experimenting with a Hackathon Support Team which:
 
 ### Template Slide Decks
 
--   TODO
+-   TODO - Coming Soon!
