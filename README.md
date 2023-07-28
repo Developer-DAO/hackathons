@@ -32,7 +32,8 @@ Within Developer DAO, we're experimenting with a Hackathon Support Team which:
 -   maintains an event calendar,
 -   helps members find and form teams, and
 -   collects, builds, and curates resources in this repository.
--   [Terms & Conditions](https://github.com/Developer-DAO/the-developer-dao-foundation/blob/main/foundation-docs/D_D%20Starter%20Hackathons%20T%26C.pdf) - Developer DAO Terms and Conditions
+  
+[Terms & Conditions](https://github.com/Developer-DAO/the-developer-dao-foundation/blob/main/foundation-docs/D_D%20Starter%20Hackathons%20T%26C.pdf) - Developer DAO Terms and Conditions
 
 
 ## Resources
